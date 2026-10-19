@@ -1,0 +1,422 @@
+[
+ {
+  "id": "1.1",
+  "section": "Listing Descriptions",
+  "title": "Luxury Listing Description",
+  "body": "Write a compelling luxury real estate listing description for [PROPERTY ADDRESS]. Details: [BEDROOMS] bedrooms, [BATHROOMS] bathrooms, [SQUARE FOOTAGE] sq ft, listed at [LIST PRICE]. High-end features: [LIST e.g., chef's kitchen with Wolf range, heated floors, wine cellar, smart home system, pool, ocean view]. Architectural style: [STYLE]. Lot/setting: [LOT DETAILS]. Tone: sophisticated and aspirational but not pretentious. Length: 250–300 words. Focus on lifestyle and craftsmanship. Describe only verifiable property features and amenities — no references to the type of buyer or neighborhood demographics. End with a call to action to schedule a private showing with [AGENT NAME] at [PHONE/EMAIL].",
+  "note": "Paste the MLS spec sheet highlights into the features list. Always verify brand names of appliances and finishes."
+ },
+ {
+  "id": "1.2",
+  "section": "Listing Descriptions",
+  "title": "Starter Home Listing Description",
+  "body": "Write a warm, inviting listing description for a starter home at [PROPERTY ADDRESS]. Details: [BEDROOMS] bed / [BATHROOMS] bath, [SQUARE FOOTAGE] sq ft, [LIST PRICE]. Key features: [e.g., updated kitchen, fenced backyard, new roof in 2022, garage, hardwood floors]. Nearby amenities: [e.g., park 2 blocks away, grocery store 1 mile, highway access]. Tone: upbeat and welcoming, focused on value and move-in readiness. Length: 200–250 words. Describe the property and its features only — do not reference who the home would be \"perfect for\" or neighborhood demographics. End with showing instructions and [AGENT NAME] contact info.",
+  "note": "Emphasize concrete value (updates, systems, lot) rather than buyer type."
+ },
+ {
+  "id": "1.3",
+  "section": "Listing Descriptions",
+  "title": "Condo Listing Description",
+  "body": "Write a listing description for a condo at [PROPERTY ADDRESS / BUILDING NAME]. Details: [BEDROOMS] bed / [BATHROOMS] bath, [SQUARE FOOTAGE] sq ft, [FLOOR] floor, [LIST PRICE]. HOA fee: [HOA FEE] covering [WHAT HOA COVERS]. Building amenities: [e.g., gym, doorman, rooftop deck, parking space #]. Unit features: [e.g., floor-toceiling windows, balcony, in-unit laundry, views]. Location highlights: [verifiable distances, e.g., 0.4 miles to Metro, 2 blocks to waterfront]. Length: 200–250 words. Stick to verifiable unit, building, and location facts. End with a call to action and [AGENT NAME] contact.",
+  "note": "Double-check HOA fee and what’s included — these change and buyers will ask."
+ },
+ {
+  "id": "1.4",
+  "section": "Listing Descriptions",
+  "title": "Fixer-Upper / Investor Listing Description",
+  "body": "Write a listing description for a fixer-upper at [PROPERTY ADDRESS]. Details: [BEDROOMS] bed / [BATHROOMS] bath, [SQUARE FOOTAGE] sq ft, lot size [LOT SIZE], [LIST PRICE]. Condition: [honest summary, e.g., needs full kitchen/bath renovation, roof at end of life, solid foundation, original hardwood under carpet]. Positives: [e.g., large lot, desirable street, detached garage, good bones]. Sold as-is: [YES/NO]. Tone: honest and opportunity-focused — never hide defects, but highlight potential and the numbers. Include estimated ARV context only if I provide it: [COMPS/ARV OR \"omit\"]. Length: 200–250 words. Comply with all disclosure norms; no demographic or steering language.",
+  "note": "Honesty sells fixers. Investors distrust over-polished copy — keep it factual."
+ },
+ {
+  "id": "1.5",
+  "section": "Listing Descriptions",
+  "title": "Land / Lot Listing Description",
+  "body": "Write a listing description for vacant land at [PROPERTY ADDRESS / PARCEL ID]. Details: [ACREAGE] acres, zoning [ZONING], [LIST PRICE]. Utilities: [e.g., well needed, electric at street, perc test completed date]. Topography/setting: [e.g., gently sloping, wooded, creek frontage, mountain views]. Access: [road frontage, easements]. Permitted uses: [e.g., single-family, horses allowed]. Location: [verifiable distances to towns/amenities]. Length: 150–200 words. Factual and vision- oriented — describe what the land offers, not who should buy it. End with [AGENT NAME] contact and a note to verify zoning with the county.",
+  "note": "Land buyers want facts — utilities, zoning, perc. Lead with those."
+ },
+ {
+  "id": "1.6",
+  "section": "Listing Descriptions",
+  "title": "Rental Listing Description",
+  "body": "Write a rental listing for [PROPERTY ADDRESS]. Details: [BEDROOMS] bed / [BATHROOMS] bath, [SQUARE FOOTAGE] sq ft, rent [MONTHLY RENT]/month, deposit [DEPOSIT], available [DATE]. Features: [e.g., in-unit laundry, parking, pets considered with deposit, central AC]. Utilities included: [LIST OR \"none\"]. Lease terms: [LENGTH]. Location: [verifiable distances]. Length: 150–200 words, clear and welcoming. Describe the unit and terms only — no references to ideal tenant characteristics (no \"perfect for professionals,\" \"family-friendly building,\" etc.). Include fair-housing-compliant application criteria note: all applicants evaluated against the same published criteria. End with how to apply or schedule a tour via [CONTACT].",
+  "note": "Rental ads carry the same Fair Housing exposure as sales ads. Keep criteria objective and published."
+ },
+ {
+  "id": "1.7",
+  "section": "Listing Descriptions",
+  "title": "MLS Character-Limited Version",
+  "body": "Rewrite the following listing description to fit within [CHARACTER LIMIT, e.g., 500] characters, which is my MLS public remarks limit. Keep the 3 strongest selling points, remove filler, and keep it compliant (property features only, no demographic or steering language). Make every word earn its place. [PASTE FULL DESCRIPTION]",
+  "note": "Run this after writing the long version. Check your MLS’s exact limit and any prohibited-word rules."
+ },
+ {
+  "id": "1.8",
+  "section": "Listing Descriptions",
+  "title": "Social Media Version",
+  "body": "Turn the following listing into an Instagram/Facebook post. Hook in the first line (a question or bold feature statement), 3–5 short lines of highlights with emoji used sparingly, a line about the open house on [DATE/TIME] if applicable, and a call to action (\"DM me for a tour\" / \"link in bio\"). Add 10 relevant hashtags mixing local ([CITY/NEIGHBORHOOD] tags) and real estate tags. Keep the whole post under 120 words. Property details: [PASTE KEY DETAILS OR FULL DESCRIPTION].",
+  "note": "Customize the hook to the property’s single best feature. Rotate hashtag sets between posts."
+ },
+ {
+  "id": "1.9",
+  "section": "Listing Descriptions",
+  "title": "Open House Flyer Copy",
+  "body": "Write copy for a one-page open house flyer for [PROPERTY ADDRESS]. Event: [DATE], [TIME]. Include: a headline featuring the strongest selling point; a short intro paragraph (50 words); a bulleted feature list ([PASTE FEATURES: beds/baths, sq ft, price, updates]); a \"what's nearby\" section with verifiable distances only; photo placement suggestions [describe]; and a footer with [AGENT NAME], [BROKERAGE], [PHONE], [EMAIL], [LICENSE #], and equal housing logo placeholder. Tone: clean, professional, scannable. No demographic or steering language.",
+  "note": "Pair with a Canva flyer template. Verify brokerage footer/disclaimer requirements."
+ },
+ {
+  "id": "1.10",
+  "section": "Listing Descriptions",
+  "title": "Neighborhood Guide (Compliance-Safe)",
+  "body": "Write a neighborhood guide for [NEIGHBORHOOD], [CITY] to use in my buyer welcome packet. Structure: (1) Overview — housing stock types, era of construction, typical lot sizes; (2) Amenities — parks, trails, libraries, recreation with verifiable names; (3) Commute & access — highways, transit options, typical drive times; (4) Shopping & dining corridors; (5) Practical info — school district name (no ratings or characterizations — include the district's official link placeholder), utility providers, HOA presence. Length: 400–500 words. STRICT RULE: describe places, amenities, and housing only. Never describe residents, demographics, \"vibe\" in terms of people, or use words like \"safe,\" \"family-oriented,\" or \"up-and-coming.\"",
+  "note": "Link to official sources (district websites, crime statistics databases) rather than characterizing. Have your broker review before distribution."
+ },
+ {
+  "id": "2.1",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Cold Outreach Email",
+  "body": "Write a cold outreach email from [AGENT NAME], a real estate agent in [CITY/AREA], to a homeowner in [NEIGHBORHOOD]. Goal: start a conversation about their home's current market value. Include: a subject line under 8 words; a genuine, non-salesy opening referencing a recent verifiable market fact I provide: [e.g., \"three homes on your street sold this spring\"]; a one-line value offer (free, no-obligation home value report); a soft call to action (reply or book a 10-minute call via [LINK]); and a professional signature. Length: under 120 words. No hype, no fake urgency, no claims I can't verify.",
+  "note": "Personalize the first line per recipient when possible — response rates depend on it. Comply with CAN-SPAM (include opt-out)."
+ },
+ {
+  "id": "2.2",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Expired Listing Letter",
+  "body": "Write a letter from [AGENT NAME] to the owner of [PROPERTY ADDRESS], whose listing recently expired after [DAYS ON MARKET] days at [LAST LIST PRICE]. Tone: empathetic, respectful of their previous agent, confident without arrogance. Structure: acknowledge the frustration; offer a brief, specific hypothesis about what may have gone wrong (pricing, presentation, exposure — pick ONE based on what I note here: [OBSERVATION]); state my different approach in 2–3 concrete bullets; offer a nopressure 15-minute conversation. Length: under 200 words. No guarantees of sale price or timeline. Follow all MLS rules on soliciting listings.",
+  "note": "Check your MLS and state rules on contacting sellers with expired listings before sending. Specific observation beats generic flattery."
+ },
+ {
+  "id": "2.3",
+  "section": "Lead Generation & Follow-Up",
+  "title": "FSBO Approach",
+  "body": "Write an outreach message (email or letter) from [AGENT NAME] to a For-Sale-By-Owner seller at [PROPERTY ADDRESS], listed by owner at [FSBO PRICE]. Goal: offer genuine help first, not demand the listing. Include: respect for their decision to sell on their own; one specific, useful free offer (e.g., a comparative market analysis, a transaction paperwork checklist, or safety tips for showing their own home); a lowpressure mention that I also work with buyers who may be a fit; and an invitation to keep my info \"in case plans change.\" Length: under 150 words. Warm, zero-pressure tone. No criticism of FSBO, no scare tactics, comply with do-not-call and solicitation rules.",
+  "note": "This is a long-game touch. Send value first; follow up monthly, not weekly."
+ },
+ {
+  "id": "2.4",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Open House Follow-Up Sequence",
+  "body": "Write a 3-message follow-up sequence for open house visitors at [PROPERTY ADDRESS] held on [DATE]. Visitor context: [e.g., \"pre-approved, looking in this price range\" or \"neighbors who stopped by\"]. Message 1 (same day, text or email): thank them, mention one detail from our conversation placeholder [CONVERSATION DETAIL], offer the feature sheet. Message 2 (day 3): share one new piece of value ([e.g., similar listings, seller update, neighborhood market stat I provide]). Message 3 (day 7): gentle checkin with a specific question ([e.g., \"Would a second look this weekend help?\"]) and an easy out (\"If your plans have changed, no worries at all\"). Each message under 60 words, friendly, no pressure. Include opt-out language for texts.",
+  "note": "Adapt message 1 per visitor using your sign-in sheet notes. Get consent before texting (TCPA)."
+ },
+ {
+  "id": "2.5",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Past-Client Reactivation",
+  "body": "Write a warm re-engagement email to a past client, [CLIENT NAME], who bought/sold with me [X] years ago at [PROPERTY/NEIGHBORHOOD]. Structure: genuine check-in (no ask in the first paragraph); a personalized market update hook ([e.g., \"homes in your neighborhood have appreciated notably since you bought — happy to send a current value estimate\"]); one useful offer ([e.g., annual equity review, contractor recommendations, market report]); and a soft closing line that keeps the door open. Under 130 words. Tone: like writing to a friend you respect, zero sales pressure.",
+  "note": "Send quarterly to your top 50 past clients. The equity-review offer is the strongest hook for homeowners."
+ },
+ {
+  "id": "2.6",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Referral Request",
+  "body": "Write a referral request message from [AGENT NAME] to [CLIENT NAME], who closed on [PROPERTY ADDRESS] on [DATE]. Keep it short and human: thank them again for their trust; one sentence explaining that referrals from past clients are the foundation of my business; a simple, specific ask (\"if you know anyone thinking about buying or selling in [AREA], an introduction by text or email means the world\"); and a nopressure close. Under 100 words. Offer context on how I treat referrals: [e.g., \"I'll take care of them the same way I took care of you\"]. Do not offer anything of value in exchange for the referral unless I add compliant wording: [STATE-SPECIFIC NOTE].",
+  "note": "RESPA and state laws restrict referral fees/gifts with non-licensees — verify before offering any incentive. Best timing: 2–4 weeks after closing."
+ },
+ {
+  "id": "2.7",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Sphere-of-Influence Touch Campaign",
+  "body": "Create a 12-month \"stay in touch\" campaign plan for my sphere of influence (past clients, friends, local contacts). I am [AGENT NAME] in [CITY/AREA]. For each month, give me: (1) a theme, (2) the channel (email, text, mail, or call), (3) the exact message copy or a 3-sentence script, and (4) any prep needed. Rules: at least 4 touches must be pure value with zero business ask (e.g., home maintenance tips, local event roundups, holiday greetings); no more than 2 direct real-estate asks all year; include one annual \"home equity review\" offer; keep every message under 80 words. Compliance: no demographic targeting or steering content; include opt-out language where required.",
+  "note": "Load the whole plan into your CRM as scheduled tasks at the start of the year."
+ },
+ {
+  "id": "2.8",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Text Message Follow-Ups",
+  "body": "Write 5 short follow-up text templates from [AGENT NAME] for these situations: (1) new online lead who inquired about [PROPERTY ADDRESS], (2) buyer who toured [PROPERTY ADDRESS] yesterday, (3) lead who's gone quiet for 2 weeks, (4) confirming a showing appointment on [DATE/TIME], (5) checking in after sending a CMA. Each text: under 40 words, conversational, ends with a simple question that invites a reply, includes no links unless noted, and includes opt-out-friendly language where appropriate (e.g., \"no worries if timing's changed\"). No pressure, no all-caps urgency.",
+  "note": "Only text leads who’ve given consent; honor opt-outs immediately (TCPA compliance)."
+ },
+ {
+  "id": "2.9",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Voicemail Scripts",
+  "body": "Write 3 voicemail scripts (each 20–30 seconds when spoken) from [AGENT NAME]: (1) first callback to a new lead who inquired about [PROPERTY ADDRESS] — friendly, mention the property, promise a quick text follow-up; (2) follow-up voicemail after no response — light, no guilt-tripping, offer one piece of value ([VALUE, e.g., \"a price improvement just hit your search area\"]); (3) final \"closing the file\" voicemail — gracious, leaves the door open, states I'll stop reaching out unless I hear back. Conversational, natural speech patterns, no jargon.",
+  "note": "Smile while recording — it audibly changes tone. Never leave more than 3 voicemails in a sequence."
+ },
+ {
+  "id": "2.10",
+  "section": "Lead Generation & Follow-Up",
+  "title": "Drip Campaign Outline",
+  "body": "Design a 6-email drip campaign from [AGENT NAME] for new [BUYER/SELLER] leads in [CITY/AREA] who aren't ready to transact for 3–6 months. For each email provide: send timing, subject line, goal, and full body copy (under 150 words each). Arc: Email 1 = welcome + what to expect + one quick-win resource; Email 2 = educational ([e.g., \"how the buying process works in [STATE]\"]); Email 3 = local market snapshot using numbers I provide: [STATS]; Email 4 = common mistakes to avoid; Email 5 = a client story with permission: [STORY DETAILS]; Email 6 = soft check-in asking where they are in the process. Include unsubscribe compliance note on each. No fake urgency, no unverifiable claims.",
+  "note": "Load into your CRM/email tool as an automation. Swap in fresh stats for Email 3 every quarter."
+ },
+ {
+  "id": "3.1",
+  "section": "Buyer & Seller Communication",
+  "title": "Explaining an Offer to a First-Time Buyer",
+  "body": "Write a clear, reassuring explanation I ([AGENT NAME]) can send to my first-time buyer clients, [BUYER NAMES], about the offer we're preparing on [PROPERTY ADDRESS]. Explain in plain language: the offer price of [OFFER PRICE] and how we arrived at it using [COMPS SUMMARY]; the earnest money deposit of [EMD AMOUNT] and when it's at risk; contingencies included ([FINANCING/INSPECTION/APPRAISAL]) and what each protects; the proposed closing date [DATE]; and what happens after we submit ([TIMELINE]). Tone: patient, educational, no jargon — define every industry term. End with what I need from them next and my availability for questions. Under 400 words.",
+  "note": "First-time buyers re-read these emails — clarity here prevents midnight panic calls."
+ },
+ {
+  "id": "3.2",
+  "section": "Buyer & Seller Communication",
+  "title": "Multiple-Offer Situation Explanation",
+  "body": "Write a message from [AGENT NAME] to my buyer clients [BUYER NAMES] explaining that [PROPERTY ADDRESS] has received multiple offers. Explain: what a multiple-offer situation means in [STATE]; our options (offer price, escalation clause up to [CAP], appraisal gap coverage of [AMOUNT], flexible closing date, earnest money strength) with honest pros and cons of each; the seller's deadline of [DEADLINE]; and a clearheaded reminder of their maximum budget of [MAX PRICE] and that walking away is always a legitimate choice. Tone: calm, strategic, zero pressure. Under 350 words. Do not suggest waiving inspection without noting the risks.",
+  "note": "Document your client’s decisions in writing after this conversation."
+ },
+ {
+  "id": "3.3",
+  "section": "Buyer & Seller Communication",
+  "title": "Price Reduction Conversation",
+  "body": "Write a talking-points script for me ([AGENT NAME]) to call my sellers, [SELLER NAMES], about reducing the price of [PROPERTY ADDRESS] from [CURRENT PRICE] to [PROPOSED PRICE]. Provide: an empathetic opening; the market evidence in plain terms ([SHOWINGS COUNT] showings, [FEEDBACK SUMMARY], [COMPETING LISTINGS] new competing listings, [DOM] days on market vs. area average of [AVG DOM]); why acting now beats chasing the market down; the proposed new price and strategy behind it; and responses to 3 likely objections (\"let's wait longer,\" \"we can't go that low,\" \"the buyers just haven't seen it yet\"). Honest, respectful, no blame.",
+  "note": "Bring printed comps to this conversation. Agree on a reduction schedule at the listing appointment to make this call easier."
+ },
+ {
+  "id": "3.4",
+  "section": "Buyer & Seller Communication",
+  "title": "Inspection Repair Negotiation",
+  "body": "Write a message from [AGENT NAME] to my [BUYER/SELLER] clients about the inspection results on [PROPERTY ADDRESS]. Inspection findings summary: [LIST KEY FINDINGS, e.g., roof near end of life, GFCI outlets needed, HVAC 18 years old]. Strategy: [e.g., request credit of $X, request repair of safety items only, walk away if seller declines]. Explain: which items are safety/structural vs. cosmetic and why we're focusing where we are; what we're requesting and the reasoning; realistic likely outcomes (accept, counter, refuse) and our response to each; and the deadline of [RESPONSE DEADLINE]. Tone: steady and strategic — keep my clients focused on material issues, not nitpicks. Under 350 words.",
+  "note": "Never characterize a defect’s severity beyond what the licensed inspector’s report states."
+ },
+ {
+  "id": "3.5",
+  "section": "Buyer & Seller Communication",
+  "title": "Closing Timeline Update",
+  "body": "Write a status update email from [AGENT NAME] to my clients [CLIENT NAMES] for the transaction at [PROPERTY ADDRESS]. Current stage: [e.g., under contract, appraisal ordered]. Provide a clear timeline table covering completed items ([LIST WITH DATES]), upcoming milestones with dates ([INSPECTION, APPRAISAL, FINANCING CONTINGENCY, CLEAR TO CLOSE, CLOSING DATE]), anything I need from them this week ([ACTION ITEMS]), and what could cause delays ([e.g., appraisal turnaround, title work]). Tone: organized and proactive. End with my contact info and an invitation to ask anything. Under 250 words.",
+  "note": "Send weekly even when nothing changed — “no news” updates prevent anxious calls."
+ },
+ {
+  "id": "3.6",
+  "section": "Buyer & Seller Communication",
+  "title": "Delivering Difficult News",
+  "body": "Write a message from [AGENT NAME] delivering difficult news to my clients [CLIENT NAMES] about [PROPERTY ADDRESS / TRANSACTION]. The news: [e.g., appraisal came in $X below contract price, buyer's financing fell through, inspection revealed a major issue]. Structure: state the news directly and honestly in the first two sentences (no burying it); briefly explain what happened and what it means; present our options ([LIST OPTIONS]) with my professional recommendation; acknowledge the emotional weight; and end with immediate next steps and when I'll call to discuss ([TIME]). Tone: calm, accountable, forward-looking. Under 250 words.",
+  "note": "Deliver bad news by phone first when possible; use this as the written followup."
+ },
+ {
+  "id": "3.7",
+  "section": "Buyer & Seller Communication",
+  "title": "Listing Presentation Outline",
+  "body": "Create a complete listing presentation outline for me, [AGENT NAME] of [BROKERAGE], meeting sellers at [PROPERTY ADDRESS] on [DATE]. Sections: (1) my 2-minute intro and local track record ([MY STATS]); (2) their goals and timeline questions to ask first; (3) pricing strategy — how I'll present the CMA range of [PRICE RANGE] and the cost of overpricing; (4) my marketing plan in 5 concrete bullets ([e.g., professional photos, staging consult, targeted digital ads, broker open, my buyer database]); (5) preparation recommendations for this specific home ([OBSERVATIONS]); (6) my commission structure and what it covers; (7) the listing agreement walkthrough; (8) closing questions to secure the signature. Include 3 questions I should ask that most agents skip.",
+  "note": "Customize section 5 by walking the property first or studying photos. Asking great questions wins more listings than slick decks."
+ },
+ {
+  "id": "3.8",
+  "section": "Buyer & Seller Communication",
+  "title": "Buyer Consultation Script",
+  "body": "Write a buyer consultation agenda and script for me ([AGENT NAME]) meeting new buyers [BUYER NAMES] for the first time. Include: opening and rapport; discovery questions about their must-haves vs. nice-to-haves, timeline, and financing status ([PREAPPROVAL STATUS]); a plain-language walkthrough of the buying process in [STATE] from search to closing; current market conditions using my data: [MARKET SNAPSHOT]; how I'm compensated and the buyer agreement requirements in my state: [BUYER AGENCY DETAILS]; how we'll communicate; and next steps with a follow-up commitment. Include 5 discovery questions that uncover true motivation. Tone: consultative, not salesy. Note: comply with current buyer-representation rules in my market.",
+  "note": "Post-2024 practice changes require signed buyer agreements before touring in most markets — confirm current MLS/NAR rules."
+ },
+ {
+  "id": "3.9",
+  "section": "Buyer & Seller Communication",
+  "title": "Commission Objection Handling",
+  "body": "Write a respectful, confident response script for when a seller tells me ([AGENT NAME]) my [X]% commission is too high or that another agent will do it for less. Provide: an opening that validates the question instead of getting defensive; a value reframe itemizing what my fee actually covers ([MY SERVICES: photography, staging consult, marketing spend, negotiation, transaction management]); the difference between cost and net proceeds with a concrete framing example using [EXAMPLE NUMBERS]; 3 questions to ask that expose discount-service gaps (\"Will they personally negotiate inspection items?\"); and a graceful closing line whether they sign or not. Never disparage competitors. Note: commission is always negotiable and I must not suggest otherwise.",
+  "note": "Practice out loud. This conversation is won with calm specificity, not clever comebacks. Follow all antitrust guidance — commissions are set independently."
+ },
+ {
+  "id": "3.10",
+  "section": "Buyer & Seller Communication",
+  "title": "Market Update Newsletter",
+  "body": "Write a monthly market update email newsletter from [AGENT NAME] for my database in [CITY/AREA]. I'll provide the data: [MEDIAN PRICE, INVENTORY, AVG DOM, RATE CONTEXT, NOTABLE TREND]. Structure: subject line with one number in it; a 2-sentence \"what this means for you\" summary up top; 3 short sections (For Sellers / For Buyers / Worth Watching) translating the data into plain-English takeaways; one non-real-estate local item ([e.g., new restaurant opening, community event]); and a soft CTA (\"curious what your home is worth now? Reply and I'll run the numbers\"). Under 300 words. No predictions stated as fact; attribute any rate or market data to its source: [SOURCE].",
+  "note": "Consistency beats brilliance — same day, same format, every month."
+ },
+ {
+  "id": "4.1",
+  "section": "Social Media & Marketing",
+  "title": "30-Day Content Calendar",
+  "body": "Create a 30-day social media content calendar for me, [AGENT NAME], a real estate agent in [CITY/AREA], posting on [PLATFORMS, e.g., Instagram + TikTok]. For each day give: content pillar (education / listings / personal brand / local / social proof / engagement), post topic, format (Reel, carousel, story, static, text), hook line, and CTA. Rules: 40% value/education, 20% listings, 20% local community, 20% personal/ behind-the-scenes; at least 3 video ideas per week that can be filmed in under 15 minutes; no content that characterizes neighborhoods by demographics or violates Fair Housing (property features and verifiable amenities only); include 2 engagement posts (polls/questions) per week. Format as a table.",
+  "note": "Batch-film one day a week. Reuse every video across TikTok, Reels, and YouTube Shorts."
+ },
+ {
+  "id": "4.2",
+  "section": "Social Media & Marketing",
+  "title": "Instagram Captions",
+  "body": "Write 5 Instagram caption options for this post: [DESCRIBE POST — e.g., carousel of the renovated kitchen at 123 Main St, or a market stat graphic]. My voice: [e.g., friendly expert, no hype / witty and casual / polished luxury]. Each caption: strong first-line hook (this shows before the \"more\" cut-off), 2–4 short body lines, a CTA, and 8–10 hashtags mixing [CITY]-specific and real estate tags. Vary the angles: one educational, one story-driven, one question-based, one bold-statement, one behind-thescenes. Fair Housing compliant — features and facts only.",
+  "note": "Save the best performers as templates in your notes app."
+ },
+ {
+  "id": "4.3",
+  "section": "Social Media & Marketing",
+  "title": "TikTok/Reels Scripts",
+  "body": "Write 3 short-video scripts (20–40 seconds each) for me, [AGENT NAME] in [CITY/AREA]. Topics: (1) \"3 things first-time buyers in [STATE] get wrong,\" (2) a property walkthrough hook for [PROPERTY ADDRESS] highlighting [BEST FEATURE], (3) \"[CITY] market in 30 seconds\" using my data: [STATS]. Format each as: HOOK (first 3 seconds, spoken or on-screen text) / BODY (3–5 quick beats) / CTA. Conversational spoken language, no jargon, captions-friendly phrasing. Include on-screen text suggestions and a b-roll note. Compliance: verifiable facts only; attribute stats to [SOURCE]; no neighborhood demographic characterizations.",
+  "note": "The hook decides everything — test 2 hooks per video if you can."
+ },
+ {
+  "id": "4.4",
+  "section": "Social Media & Marketing",
+  "title": "Just-Listed / Just-Sold Posts",
+  "body": "Write a just-listed and a just-sold social media post for [PROPERTY ADDRESS]. Justlisted: hook on the standout feature [FEATURE], key specs ([BEDS/BATHS/SQ FT/PRICE]), open house [DATE/TIME], CTA to DM for a private tour. Just-sold: celebrate the outcome while protecting client privacy (no client names or personal details without written permission: [PERMISSION STATUS]); frame the story angle I provide: [e.g., \"sold in 6 days after 22 showings,\" \"helped relocating buyers win in multiple offers\"]; end with a soft seller-prospecting line (\"Thinking of selling in [AREA]? Let's talk\"). Each under 80 words plus hashtags. Fair Housing compliant; include brokerage attribution: [BROKERAGE].",
+  "note": "Get written client consent before any just-sold post mentioning them or their situation."
+ },
+ {
+  "id": "4.5",
+  "section": "Social Media & Marketing",
+  "title": "Market Stats Post",
+  "body": "Turn these market stats for [AREA], [MONTH] into an engaging social post: [MEDIAN PRICE, % CHANGE, INVENTORY, AVG DOM, LIST-TO-SALE RATIO]. Format: bold headline stating the single most interesting number; 3 quick takeaways in plain English (\"what this means if you're selling / buying / waiting\"); one honest \"I don't have a crystal ball\" line on predictions; CTA to DM for a neighborhood-specific breakdown. Under 100 words, plus a suggestion for a simple graphic layout. Attribute data to [SOURCE, e.g., local MLS]. No fear-mongering, no unverifiable predictions.",
+  "note": "A simple branded stat graphic + this caption outperforms text alone."
+ },
+ {
+  "id": "4.6",
+  "section": "Social Media & Marketing",
+  "title": "Personal Branding Bio",
+  "body": "Write 3 versions of my professional bio for [PLATFORM: Instagram (150 chars), LinkedIn (short), website (150 words)]. About me: [NAME], [BROKERAGE], serving [AREAS], [YEARS/ EXPERIENCE], specialty [e.g., first-time buyers, relocation, luxury], personal details I want included: [e.g., born-and-raised local, former teacher, dog mom, marathon runner], my differentiator: [e.g., data-driven pricing, relentless communication]. Voice: [VOICE]. Each version: lead with what clients get, not my résumé; include one human detail; end with a CTA and [CONTACT/LINK]. No superlatives I can't back up, no demographic targeting language.",
+  "note": "Your differentiator should be something clients have actually said about you — check your testimonials."
+ },
+ {
+  "id": "4.7",
+  "section": "Social Media & Marketing",
+  "title": "YouTube Video Outline",
+  "body": "Create an outline for a YouTube video titled \"[TITLE, e.g., Moving to [CITY]? Watch this first / [CITY] housing market update [MONTH YEAR]]\". I'm [AGENT NAME]. Provide: a 15-second hook script; 4–6 section breakdowns with talking points and on-screen text suggestions; b-roll shot list (neighborhood footage, listings, local spots — footage I can legally shoot or license); a mid-video CTA and end-screen CTA ([e.g., free relocation guide link, book a call]); title and thumbnail text options (3 each); and a description draft with timestamps template, keyword-rich first 2 lines, and my links. Target length: [6–10] minutes. All location descriptions must be amenity/featurebased, never demographic.",
+  "note": "“Living in [CITY]” search videos generate relocation leads for years. Publish consistently over chasing perfection."
+ },
+ {
+  "id": "4.8",
+  "section": "Social Media & Marketing",
+  "title": "Email Newsletter",
+  "body": "Write my monthly email newsletter, \"[NEWSLETTER NAME]\" from [AGENT NAME] in [CITY/ AREA]. This month's inputs: market stats [STATS + SOURCE]; one featured listing [DETAILS OR \"none\"]; one home tip for the season: [TIP TOPIC]; one local item: [LOCAL NEWS/EVENT]; one personal note: [e.g., what I'm up to]. Structure: short personal opening line (not \"Happy June!\"); 4 scannable sections with headers; one clear CTA ([e.g., reply for a home value estimate]); P.S. line with a secondary CTA or teaser for next month. Under 350 words. Conversational tone, like writing to one person. Include unsubscribe/CAN-SPAM compliance elements.",
+  "note": "The personal note is the most-replied-to section for most agents. Never skip it."
+ },
+ {
+  "id": "4.9",
+  "section": "Social Media & Marketing",
+  "title": "Community Spotlight Post",
+  "body": "Write a \"Community Spotlight\" social post series entry about [LOCAL BUSINESS/PARK/ EVENT] in [CITY/AREA]. Angle: why locals love it, based on verifiable features I provide: [DETAILS — e.g., what they serve, hours, history]. Include: an engaging hook, 3–4 short lines, a question CTA to drive comments (\"What's your go-to order?\"), tags for the business ([HANDLE]), and hashtags. Under 80 words. Focus on places and amenities — never describe the surrounding area in demographic terms. Add a soft oneline sign-off tying to my role as a local agent.",
+  "note": "Tag the business — they often reshare, putting you in front of their local audience. This is the highest-ROI organic content for local agents."
+ },
+ {
+  "id": "4.10",
+  "section": "Social Media & Marketing",
+  "title": "Holiday & Seasonal Posts",
+  "body": "Write 5 holiday/seasonal social posts for [AGENT NAME] for: [HOLIDAYS/SEASONS, e.g., New Year, spring market kickoff, July 4th, Thanksgiving, first day of school]. Rules: each under 60 words; warm and genuine, not cheesy; at most ONE may mention real estate directly — the rest are pure goodwill; include one home-related seasonal tip where natural; inclusive wording for holidays (use the holiday name only if I celebrate/ acknowledge it: [PREFERENCES]); each with a light engagement question. Add image/ graphic suggestions for each.",
+  "note": "Goodwill posts build the audience that your listing posts later convert. Don’t over-brand them."
+ },
+ {
+  "id": "5.1",
+  "section": "Transaction & Admin",
+  "title": "Transaction Checklist",
+  "body": "Create a complete transaction checklist for a [BUYER-SIDE / SELLER-SIDE] transaction in [STATE] for [PROPERTY ADDRESS], closing on [CLOSING DATE]. Organize into phases: (1) contract execution, (2) earnest money & disclosures, (3) inspection period ([DEADLINE]), (4) appraisal & financing ([DEADLINE]), (5) title & HOA docs, (6) final walkthrough, (7) closing day, (8) post-closing follow-up. For each task include: owner (agent/client/lender/title), deadline or \"X days before closing,\" and a notes field. Flag the state-specific items I should verify with my broker: [STATE FORMS/TIMELINES]. Format as a table I can paste into a spreadsheet.",
+  "note": "Verify all deadlines against your actual contract and state forms — this is a template, not legal advice."
+ },
+ {
+  "id": "5.2",
+  "section": "Transaction & Admin",
+  "title": "Vendor Recommendation Email",
+  "body": "Write an email from [AGENT NAME] to my client [CLIENT NAME] recommending vendors for [NEED, e.g., home inspection, plumbing repair, staging]. Include 3 vendor options with: name, specialty, and one line on why I trust them ([DETAILS]); a disclosure line that I encourage them to get multiple quotes and make their own choice, plus my relationship disclosure: [e.g., \"I receive no compensation from these vendors\" — only if true]; and an offer to coordinate scheduling. Under 150 words, warm and helpful.",
+  "note": "Always offer multiple options and disclose any affiliations — required by most state regulations and brokerage policies (RESPA where applicable)."
+ },
+ {
+  "id": "5.3",
+  "section": "Transaction & Admin",
+  "title": "Showing Feedback Request",
+  "body": "Write a short showing feedback request message from [AGENT NAME] to the buyer's agent who showed my listing at [PROPERTY ADDRESS] on [DATE]. Ask 3 specific questions: (1) their buyer's overall impression and interest level, (2) feedback on price relative to condition, (3) anything specific that held the buyer back. Keep it under 70 words, friendly, easy to answer by reply text. Include a version formatted as a 3-question survey for automated showing-follow-up tools.",
+  "note": "Specific questions get answers; “any feedback?” gets silence. Log all feedback for your price-reduction conversations."
+ },
+ {
+  "id": "5.4",
+  "section": "Transaction & Admin",
+  "title": "CMA Summary Narrative",
+  "body": "Write a plain-English CMA summary narrative from [AGENT NAME] for [SELLER/BUYER NAME] regarding [PROPERTY ADDRESS]. Comps: [LIST 3–5 COMPS WITH PRICES, SQ FT, KEY DIFFERENCES]. Subject property adjustments: [e.g., larger lot, dated kitchen, new roof]. Conclusion: suggested price range [RANGE] with reasoning. Explain the adjustments in everyday language, note the limitations of any CMA, and end with recommended next step. Under 300 words. No guarantee of sale price; no fair-housingsensitive neighborhood characterizations.",
+  "note": "Attach this as the cover page to your full CMA report — clients read the narrative, skim the tables."
+ },
+ {
+  "id": "5.5",
+  "section": "Transaction & Admin",
+  "title": "Pre-Listing Prep Checklist for Sellers",
+  "body": "Create a pre-listing preparation checklist I ([AGENT NAME]) can send to sellers of [PROPERTY ADDRESS] to get the home photo- and showing-ready in [X] weeks. Organize by: (1) declutter & depersonalize, (2) deep clean, (3) repairs (high-ROI first: [KNOWN ISSUES]), (4) curb appeal & exterior, (5) staging basics per room, (6) paperwork to gather ([e.g., utility bills, permits, warranties, HOA docs]), (7) photo-day prep, (8) showing-day routine (15-minute version). Each item: one line, actionable, with a suggested week assignment. Include a note that I'll walk through with them on [DATE] to prioritize. Format as a printable checklist with checkboxes.",
+  "note": "Send this at the listing agreement signing — it sets expectations and reduces pre-photo panic."
+ },
+ {
+  "id": "5.6",
+  "section": "Transaction & Admin",
+  "title": "Moving Checklist for Buyers",
+  "body": "Create a moving checklist from [AGENT NAME] to send my buyers [BUYER NAMES] for their move into [PROPERTY ADDRESS] on [CLOSING DATE]. Countdown format: 6 weeks out, 4 weeks, 2 weeks, 1 week, moving day, first week after. Cover: movers/truck booking, address changes (USPS, DMV, banks, subscriptions), utility setup/shutoff for [CITY] providers: [LIST IF KNOWN], insurance start date, school/enrollment logistics link placeholder, packing strategy, essentials box, and a \"what to do on closing day before you get keys\" note. Each item one line with a checkbox. Friendly tone with my branding footer: [CONTACT INFO].",
+  "note": "This is a high-perceived-value touchpoint — brand it nicely and past clients will forward it to friends."
+ },
+ {
+  "id": "5.7",
+  "section": "Transaction & Admin",
+  "title": "Testimonial Request",
+  "body": "Write a testimonial request message from [AGENT NAME] to [CLIENT NAMES] who just closed on [PROPERTY ADDRESS]. Timing: [X] weeks after closing. Ask for: a short review mentioning what working with me was like and one specific moment that stood out; where to post it ([GOOGLE BUSINESS LINK / ZILLOW LINK]); and permission to quote them in my marketing ([YES/NO ASK]). Make it easy: include 2 optional prompts (\"What worried you most before we started?\" \"What would you tell a friend?\"). Under 100 words, warm, zero pressure, no incentives offered unless compliant in my state: [NOTE].",
+  "note": "Ask within 2–3 weeks of closing while the experience is fresh. Never pay for or gate reviews (FTC rules)."
+ },
+ {
+  "id": "5.8",
+  "section": "Transaction & Admin",
+  "title": "Google Review Response Templates",
+  "body": "Write Google review response templates for my business ([AGENT NAME], [BROKERAGE]): (1) response to a detailed 5-star review, (2) response to a short 5-star review, (3) response to a 4-star review with mild criticism, (4) response to a negative review — calm, non-defensive, takes the conversation offline, never discusses transaction details or the client's identity (confidentiality), (5) response to a review from someone who was never a client. Each under 60 words except the negative-review response (under 90). Placeholders for reviewer name: [REVIEWER NAME] and specifics: [DETAIL]. Professional, gracious, brand-consistent.",
+  "note": "Never confirm or deny that a reviewer was a client in a public response — confidentiality survives the transaction."
+ },
+ {
+  "id": "5.9",
+  "section": "Transaction & Admin",
+  "title": "Team Meeting Agenda",
+  "body": "Create a weekly team meeting agenda template for my real estate team ([TEAM NAME], [X] agents, led by [NAME]). 45 minutes. Sections with time blocks: wins & closings recognition (5 min), pipeline review — each agent reports active buyers/listings/ pendings in 60 seconds (15 min), listings & price-reduction candidates discussion (10 min), marketing content assignments for the week (5 min), training topic of the week: [TOPIC] (7 min), roadblocks & asks (3 min). Include: a standing \"numbers dashboard\" list ([METRICS: appointments set, listings taken, pendings, GCI vs. goal]); a rotating format so it doesn't go stale; and rules to keep it under 45 minutes.",
+  "note": "The 60-second pipeline report rule is what keeps this meeting alive. Enforce it kindly but firmly."
+ },
+ {
+  "id": "5.10",
+  "section": "Transaction & Admin",
+  "title": "Goal-Setting Worksheet",
+  "body": "Create a one-page annual business goal-setting worksheet for a real estate agent. Work backward from income: (1) annual net income goal [GOAL]; (2) divide by average commission per side [AVG COMMISSION] = sides needed; (3) sides needed ÷ my conversion rates ([e.g., 1 closing per X appointments, 1 appointment per Y conversations]) = weekly activity targets for conversations, appointments, and listing appointments; (4) then a quarterly milestone table; (5) three \"lead sources to focus on\" with weekly actions each; (6) a monthly review checklist (\"did I hit activity targets — not just results?\"). Plain fill-in-the-blank format with the math shown at each step so I can adjust my numbers: [MY NUMBERS].",
+  "note": "Activity targets are controllable; results aren’t. Review weekly against activities, monthly against results. Use these to prepare, role-play, and rehearse. Adapt outputs to your voice and verify any market claims with your own data."
+ },
+ {
+  "id": "6.1",
+  "section": "Objection Handling & Scripts",
+  "title": "“I Want to Wait for Rates to Drop”",
+  "body": "Write a response framework for when a buyer tells me ([AGENT NAME]) they want to wait until mortgage rates drop. Provide: an empathetic acknowledgment; a balanced education covering the real trade-offs (rate vs. price vs. competition — using my market data: [CURRENT STATS]); the \"refinance optionality\" concept explained plainly without promising future rate movements; the cost-of-waiting math shown with [EXAMPLE NUMBERS: price, rate, rent paid while waiting]; 2 questions to uncover what's really driving the hesitation; and a no-pressure close that respects their timeline. Never predict rates as fact; never pressure. Under 250 words plus a 30-second spoken version.",
+  "note": "Your job is to inform the decision, not make it. Agents who educate without pressure get the call when the client is ready."
+ },
+ {
+  "id": "6.2",
+  "section": "Objection Handling & Scripts",
+  "title": "“I’ll Sell It Myself” (FSBO Objection)",
+  "body": "Write a respectful response for when a seller says they'll just sell it themselves. Provide: an opening that genuinely respects the option (it is their right); 3 questions that surface the real work involved (\"How will you handle showings while you're at work?\" \"What's your plan if the buyer's agent negotiates repairs against you?\"); the data point I provide on FSBO vs. agent-assisted outcomes: [NAR/LOCAL DATA WITH SOURCE]; an explanation of where agents typically add net value (pricing accuracy, exposure, negotiation, contract risk) without scare tactics; and a gracious fallback (\"If it doesn't sell in [X] weeks, I'd love 15 minutes to show you my plan\"). Never disparage their ability.",
+  "note": "Plant seeds, don’t argue. The follow-up at week 3–4 wins these listings."
+ },
+ {
+  "id": "6.3",
+  "section": "Objection Handling & Scripts",
+  "title": "“Your Commission Is Too High”",
+  "body": "Write a role-play script for the commission objection in a listing appointment. I'm [AGENT NAME], my fee is [X]%. Provide: 3 different opening responses (curious, direct, and reframe styles); the full value breakdown conversation using my services list: [SERVICES + MARKETING SPEND]; how to handle \"Agent Y will do it for [LOWER FEE]\" without criticizing anyone; the net-proceeds framing with [EXAMPLE NUMBERS]; when and how to hold firm vs. negotiate (my floor: [FLOOR]); and an exit line that preserves the relationship if they choose someone else. Reminder to include: commissions are independently set and always negotiable — no antitrust-sensitive language.",
+  "note": "Rehearse all three openings out loud. Your comfort with this conversation shows."
+ },
+ {
+  "id": "6.4",
+  "section": "Objection Handling & Scripts",
+  "title": "“We’re Just Browsing”",
+  "body": "Write a response approach for open house or inbound leads who say \"we're just browsing / not working with an agent.\" Provide: a low-pressure in-person response that keeps the conversation going (2 options); 3 casual questions that reveal timeline and motivation without interrogating; how to offer value immediately ([e.g., \"I'll send you new listings in this area before they hit Zillow — what's the best email?\"]); a follow-up plan if they share contact info ([2 touches]); and the boundary — when to gracefully disengage. Friendly, zero desperation, under 200 words.",
+  "note": "“Just browsing” often means “don’t sell me.” Give value first and the guard drops."
+ },
+ {
+  "id": "6.5",
+  "section": "Objection Handling & Scripts",
+  "title": "Lowball Offer Response",
+  "body": "Write a strategy and script for my seller clients ([SELLER NAMES]) who just received a low offer of [OFFER PRICE] on [PROPERTY ADDRESS], listed at [LIST PRICE]. Provide: a calming framing for the sellers (an offer is a starting point, not an insult); options analysis — reject, counter at [COUNTER PRICE], counter with terms instead of price ([e.g., faster close, as-is]) with pros/cons; the counter-offer response message to the buyer's agent that keeps the deal alive and professional; and guidance on reading the buyer's situation from what we know: [CONTEXT]. Under 300 words. All decisions remain the client's.",
+  "note": "Sellers’ first instinct is offense. Your job is to convert emotion into strategy."
+ },
+ {
+  "id": "6.6",
+  "section": "Objection Handling & Scripts",
+  "title": "“We Need to Think About It”",
+  "body": "Write a response framework for buyers or sellers who say \"we need to think about it\" at a decision point ([CONTEXT: e.g., after a showing they loved, at a listing appointment close]). Provide: a response that honors the stall without pressure; the \"clarifying question\" technique (\"Totally fair — is it the price, the timing, or something about the house you'd want to think through? I may be able to help with specifics\"); 3 likely hidden objections and how to address each; a graceful way to set a concrete follow-up time; and when to simply let go. Under 250 words.",
+  "note": "“Think about it” usually hides a specific unspoken concern. The clarifying question is the whole game."
+ },
+ {
+  "id": "6.7",
+  "section": "Objection Handling & Scripts",
+  "title": "Dual Agency Explanation",
+  "body": "Write a plain-language explanation I ([AGENT NAME]) can give clients about dual/ designated agency in [STATE]. Cover: what it means when my brokerage represents both sides; what I can and cannot do for each party in that situation (loyalty, confidentiality, price advice limits — per [STATE] rules: [STATE-SPECIFIC RULES]); the client's options (consent, request designated agents, or decline); and the required disclosure/consent paperwork: [FORM NAME]. Neutral, balanced tone that presents it honestly including the downsides. Flag for me to verify: my state's current law and brokerage policy before using.",
+  "note": "Dual agency rules vary widely by state — some prohibit it. Verify before this ever comes up, not during."
+ },
+ {
+  "id": "6.8",
+  "section": "Objection Handling & Scripts",
+  "title": "“The Other Agent Said Our Home Is Worth More”",
+  "body": "Write a response framework for when sellers tell me ([AGENT NAME]) a competing agent promised a higher list price ([THEIR NUMBER] vs. my CMA range of [MY RANGE]). Provide: a non-defensive opening; how to walk through my comparable evidence again ([COMPS SUMMARY]) and invite scrutiny of theirs; an explanation of \"buying the listing\" and how overpricing typically plays out ([DOM/REDUCTION DATA I provide: [DATA]]); the strategic questions to ask (\"Can we look at which comps support that number together?\"); an offer of a pricing-review trigger plan (e.g., review at 14 days with no offers); and a graceful close whether I get the listing at my price, theirs, or not at all. No disparagement of the other agent.",
+  "note": "Competing on evidence instead of ego wins the right listings and keeps you out of unsellable ones."
+ },
+ {
+  "id": "6.9",
+  "section": "Objection Handling & Scripts",
+  "title": "Buyer Hesitant After Inspection",
+  "body": "Write a message and call script for my buyer clients [BUYER NAMES] who are getting cold feet after the inspection on [PROPERTY ADDRESS]. Inspection reality: [SUMMARY — e.g., mostly routine items, one significant finding: X]. Provide: an empathetic opening normalizing post-inspection nerves; a framework separating the findings into (a) normal for a [AGE]-year-old home, (b) negotiable items, (c) genuine red flags — using their actual report: [ITEMS]; their options (proceed, renegotiate, walk away within the contingency window ending [DATE]) presented neutrally; questions to help them decide (\"Setting this report aside, did the house feel right?\"); and reassurance that any decision is supported. Never minimize real defects; never pressure either direction.",
+  "note": "Stay neutral — pushing a hesitant buyer toward closing creates liability and destroys trust."
+ },
+ {
+  "id": "6.10",
+  "section": "Objection Handling & Scripts",
+  "title": "Seller Wants to Overprice",
+  "body": "Write a strategy for handling sellers ([SELLER NAMES]) who insist on listing at [THEIR PRICE] when my CMA supports [CMA RANGE]. Provide: the conversation script presenting evidence one more time with [COMPS]; the data on overpricing outcomes I can cite: [LOCAL DOM/PRICE-REDUCTION DATA]; three structured options to offer: (1) list at my recommended price, (2) list at their price with a pre-agreed reduction schedule ([e.g., reduce to $X after 14 days without an offer]), (3) respectfully decline the listing; the \"pre-agreed reduction schedule\" paperwork approach; and how to decide between options 2 and 3 based on the gap size. Professional, principled, nonconfrontational.",
+  "note": "A listing you know won’t sell costs you money and reputation. Option 2 saves most of these; option 3 saves your sanity."
+ }
+]
