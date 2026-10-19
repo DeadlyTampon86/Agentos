@@ -12,7 +12,7 @@
     "format": "prettier --write .",
     "test": "vitest run",
     "test:watch": "vitest",
-    "vercel-build": "drizzle-kit migrate && vite build"
+    "vercel-build": "vite build"
   },
   "overrides": {
     "rolldown": "1.2.1",
