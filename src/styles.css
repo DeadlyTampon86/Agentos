@@ -1,0 +1,172 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Design system definition — Private Estate Noir
+ * Black marble, lacquer panels, bright ivory-silver type, and fine champagne-gold rules.
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ring-offset-background: var(--background);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-script: "Italianno", cursive;
+  --font-sans: "Cormorant Garamond", Georgia, serif;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-mono: "Cormorant Garamond", Georgia, serif;
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+  --radius: 0.5rem;
+  --background: oklch(0.075 0.006 60);
+  --foreground: oklch(0.95 0.012 78);
+  --card: oklch(0.095 0.006 60);
+  --card-foreground: oklch(0.95 0.012 78);
+  --popover: oklch(0.095 0.006 60);
+  --popover-foreground: oklch(0.95 0.012 78);
+  /* Deep wine velvet */
+  --primary: oklch(0.32 0.125 24);
+  --primary-foreground: oklch(0.96 0.012 78);
+  --secondary: oklch(0.14 0.008 65);
+  --secondary-foreground: oklch(0.94 0.012 78);
+  --muted: oklch(0.145 0.008 65);
+  --muted-foreground: oklch(0.78 0.018 75);
+  /* Antique-gold detail, deliberately quieter than the silver type */
+  --accent: oklch(0.78 0.09 82);
+  --accent-foreground: oklch(0.11 0.008 65);
+  --destructive: oklch(0.55 0.2 28);
+  --destructive-foreground: oklch(0.98 0 0);
+  --success: oklch(0.6 0.12 155);
+  --success-foreground: oklch(0.14 0.01 60);
+  --border: oklch(0.58 0.065 78);
+  --input: oklch(0.46 0.045 78);
+  --ring: oklch(0.78 0.02 255);
+  --chart-1: oklch(0.8 0.125 88);
+  --chart-2: oklch(0.42 0.13 25);
+  --chart-3: oklch(0.6 0.12 155);
+  --chart-4: oklch(0.66 0.008 75);
+  --chart-5: oklch(0.48 0.05 40);
+  --sidebar: oklch(0.14 0.025 20);
+  --sidebar-foreground: oklch(0.955 0.006 255);
+  --sidebar-primary: oklch(0.355 0.145 23);
+  --sidebar-primary-foreground: oklch(0.97 0.004 255);
+  --sidebar-accent: oklch(0.21 0.05 22);
+  --sidebar-accent-foreground: oklch(0.955 0.006 255);
+  --sidebar-border: oklch(0.31 0.055 22);
+  --sidebar-ring: oklch(0.78 0.02 255);
+  --gradient-hero: linear-gradient(105deg, oklch(0.04 0.002 60 / 0.99) 4%, oklch(0.08 0.005 70 / 0.94) 54%, oklch(0.04 0.002 60 / 0.78) 100%);
+  --gradient-gold: linear-gradient(90deg, oklch(0.72 0.075 80) 0%, oklch(0.9 0.09 88) 48%, oklch(0.72 0.075 80) 100%);
+  --gradient-silver: linear-gradient(180deg, oklch(0.99 0.008 80) 0%, oklch(0.83 0.018 75) 100%);
+  --shadow-card: inset 0 1px 0 oklch(0.92 0.06 85 / 0.16), inset 0 0 34px oklch(0.01 0.002 60 / 0.62), 0 0 0 1px oklch(0.74 0.07 80 / 0.18), 0 28px 58px -22px oklch(0.005 0.002 60 / 0.98);
+  --shadow-gold: 0 8px 22px -14px oklch(0.72 0.075 83 / 0.4);
+}
+
+@utility bg-gold { background: var(--gradient-gold); }
+@utility shadow-gold { box-shadow: var(--shadow-gold); }
+@utility rise { animation: rise 0.7s cubic-bezier(0.22, 1, 0.36, 1) both; }
+@utility bg-hero { background: var(--gradient-hero); }
+@utility marble-surface {
+  background-color: var(--color-background);
+  background-image: linear-gradient(oklch(0.04 0.002 60 / 0.22), oklch(0.04 0.002 60 / 0.22)), url("./assets/luxury-marble.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+@utility lacquer-panel {
+  background: linear-gradient(145deg, oklch(0.125 0.008 65 / 0.98), oklch(0.065 0.004 60 / 0.99));
+  box-shadow: var(--shadow-card);
+}
+@utility gold-rule { border-color: color-mix(in oklab, var(--accent) 58%, transparent); }
+@utility shadow-card { box-shadow: var(--shadow-card); }
+@utility fade-up { animation: fade-up 0.5s ease-out both; }
+@utility text-gold-metallic {
+  background: var(--gradient-gold);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+@utility text-silver-metallic {
+  background: var(--gradient-silver);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+@keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+@keyframes fade-up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    background-image: linear-gradient(oklch(0.04 0.002 60 / 0.55), oklch(0.04 0.002 60 / 0.55)), url("./assets/luxury-marble.jpg");
+    background-size: 1180px auto;
+    background-attachment: fixed;
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-style: italic;
+    font-size: 1.0625rem;
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-script);
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+
+  button, input, textarea, select, option {
+    font-family: var(--font-sans);
+    font-style: italic;
+    letter-spacing: 0;
+  }
+
+  code, pre, kbd, samp {
+    font-family: var(--font-sans);
+    font-style: italic;
+  }
+}
