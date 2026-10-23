@@ -1,1 +1,21 @@
-Y29uc3QgY2xpZW50VG9rZW4gPSBpbXBvcnQubWV0YS5lbnZbJ1ZJVEVfUEFZTUVOVFNfQ0xJRU5UX1RPS0VOJ107CgpleHBvcnQgZnVuY3Rpb24gUGF5bWVudFRlc3RNb2RlQmFubmVyKCkgewogIGlmICghY2xpZW50VG9rZW4pIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LWZ1bGwgYmctcmVkLTEwMCBib3JkZXItYiBib3JkZXItcmVkLTMwMCBweC00IHB5LTIgdGV4dC1jZW50ZXIgdGV4dC1zbSB0ZXh0LXJlZC04MDAiPgogICAgICAgIFByb2R1Y3Rpb24gY2hlY2tvdXQgaXMgbm90IGNvbmZpZ3VyZWQuIEFkZCB5b3VyIFN0cmlwZSBwdWJsaXNoYWJsZSBrZXkgdG8gYWNjZXB0IHJlYWwgcGF5bWVudHMuCiAgICAgIDwvZGl2PgogICAgKTsKICB9CiAgaWYgKGNsaWVudFRva2VuLnN0YXJ0c1dpdGgoInBrX3Rlc3RfIikpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LWZ1bGwgYmctb3JhbmdlLTEwMCBib3JkZXItYiBib3JkZXItb3JhbmdlLTMwMCBweC00IHB5LTIgdGV4dC1jZW50ZXIgdGV4dC1zbSB0ZXh0LW9yYW5nZS04MDAiPgogICAgICAgIEFsbCBwYXltZW50cyBtYWRlIGluIHRoZSBwcmV2aWV3IGFyZSBpbiB0ZXN0IG1vZGUuCiAgICAgIDwvZGl2PgogICAgKTsKICB9CiAgcmV0dXJuIG51bGw7Cn0K
+const clientToken = import.meta.env["VITE_PAYMENTS_CLIENT_TOKEN"];
+
+export function PaymentTestModeBanner() {
+  if (!clientToken) {
+    return (
+      <div className="w-full bg-red-100 border-b border-red-300 px-4 py-2 text-center text-sm text-red-800">
+        Production checkout is not configured. Add your Stripe publishable key to accept real payments.
+      </div>
+    );
+  }
+  if (clientToken.startsWith("pk_test_")) {
+    return (
+      <div className="w-full bg-orange-100 border-b border-orange-300 px-4 py-2 text-center text-sm text-orange-800">
+        All payments made in the preview are in test mode.
+      </div>
+    );
+  }
+  return null;
+}
+
+export default PaymentTestModeBanner;
