@@ -310,6 +310,41 @@ function Home() {
         </div>
       </section>
 
+      {/* The builder — a real person behind the desk */}
+      <section className="border-y border-accent/30 bg-background/70">
+        <div className="mx-auto grid max-w-6xl items-center gap-12 px-4 py-24 md:grid-cols-2">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">Built by a real person</p>
+            <h2 className="text-silver-metallic mt-3 text-5xl leading-none md:text-6xl">
+              Hi, I'm <span className="text-foreground">Scotty.</span>
+            </h2>
+            <div className="mt-6 space-y-4 leading-relaxed text-muted-foreground">
+              <p>
+                I'm an Army veteran from Oklahoma. I built AgentOS myself — no agency, no investors,
+                no committee. Just one person who got tired of watching agents juggle five
+                subscriptions to do one job.
+              </p>
+              <p>
+                When you sign up, you're not dealing with a support queue. You're dealing with me.
+                If something breaks, I fix it. If you need something the app doesn't do yet, tell me
+                and I'll build it.
+              </p>
+            </div>
+          </div>
+          <div className="lacquer-panel gold-rule rounded-lg border p-8">
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">My promise</p>
+            <h3 className="mt-3 font-display text-3xl text-foreground">30-day money-back guarantee</h3>
+            <p className="mt-4 leading-relaxed text-muted-foreground">
+              Try AgentOS for a month. If it doesn't earn its keep, email me and I'll refund you —
+              no questions, no forms, no hoops.
+            </p>
+            <Link to="/refund" className="mt-6 inline-block border-b border-accent/60 pb-1 text-xs font-semibold uppercase tracking-[0.2em] text-foreground/80 hover:text-foreground">
+              Read the refund policy →
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Finale — back to the velvet stage */}
       <section className="relative overflow-hidden border-t border-accent/30">
         <img src={interiorImage} alt="Private luxury salon" loading="lazy" width={1024} height={1280} className="absolute inset-0 h-full w-full object-cover opacity-25" />
